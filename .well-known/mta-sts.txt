@@ -1,0 +1,4 @@
+version: STSv1
+mode: testing
+mx: jakobsen-club.n-v1.mx.microsoft
+max_age: 86400
